@@ -3,7 +3,7 @@ appsniff
 
 appsniff
 
-py 1903
+get app rank from apple store.
 
 ;-）
 ====
